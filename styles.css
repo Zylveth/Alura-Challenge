@@ -78,7 +78,7 @@ form p{
 }
 
 .salida-texto{
-    background-image: url(/images/general/salida-texto.png);
+    background-image: url(images/general/salida-texto.png);
     background-size: 45%;
     background-position: 50%;
     background-repeat: no-repeat;
