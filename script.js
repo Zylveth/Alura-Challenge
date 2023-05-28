@@ -144,7 +144,7 @@ function desencriptarTexto(textoDesencriptado){
             text: 'Ingresa tu nuevo texto a encriptar.',
             confirmButtonText: 'De acuerdo',
             backdrop: true,
-            timer: 1800,
+            timer: 1400,
             timerProgressBar: true,
             allowOutsideClick: false,
             allowEscapeKey: false,
