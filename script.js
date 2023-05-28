@@ -59,7 +59,6 @@ function encriptado(){
             showConfirmButton: false,
             timer: 1200,
             toast: true,
-            width: '13%',
           })
     }
        return true;
@@ -114,7 +113,6 @@ function desencriptado(){
             showConfirmButton: false,
             timer: 1200,
             toast: true,
-            width: '13%',
           })
     }
     return true
